@@ -29,3 +29,7 @@ Once your CYOA is complete you can save it as an image using a browser extension
 
 - **Chrome:** https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US
 - **Firefox:** https://addons.mozilla.org/en-US/firefox/addon/fireshot/
+
+###Row Edition
+
+Check out the row_edition folder for a row-based style.
